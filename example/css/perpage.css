@@ -1,0 +1,27 @@
+.perpage .item {             /*YOU GIVEN*/
+    width: 298px;
+    margin: 0px auto;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+
+.perpage .item img {   /*YOU GIVEN*/
+    width: 285px;
+    height: 186px;
+    margin: 2px;
+    border-radius: 5px;
+    border: 1px solid #17ffee;
+}
+
+.perpage .title { /*YOU GIVEN*/
+    text-decoration: none;
+    display: inline-block;
+    position: absolute;
+    top: 168px;
+    left: 6px;
+    width: 285px;
+    background-color: rgba(0,0,0,0.3);
+    color: #ccc;
+}
